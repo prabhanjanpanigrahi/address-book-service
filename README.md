@@ -1,4 +1,4 @@
-#Address Book Service
+# Address Book Service
 
 This application is responsible to maintain address book of all customers holding valid contact information.
 
@@ -10,7 +10,7 @@ This application is responsible to maintain address book of all customers holdin
   - Users should be able to maintain multiple address books.
   - Users should be able to print a unique set of all contacts across multiple address books.
 
-#Technologies used for this application
+# Technologies used for this application
 
 This application created using below technologies 
 
@@ -22,7 +22,7 @@ This application created using below technologies
       - Swagger for API's documentation
       - Docker for containarizing the application
 
-#Database Design
+# Database Design
 
 As per the BRD document we need to consider two aspects while processing and storing the data. 
 There are two main objects i.e. Address Book and Contact information. 
@@ -33,7 +33,7 @@ Below is the database diagram which will explain the details regarding database 
 
 ![img.png](img.png)
 
-#Want to test locally ?
+# Want to test locally ?
 
 ### Pre-requisite
 - Make sure Java 8 version is installed
