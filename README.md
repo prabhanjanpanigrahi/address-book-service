@@ -44,7 +44,7 @@ Below is the database diagram which will explain the details regarding database 
 
 - Go to project directory and enter command: <b>mvn clean package</b>
 - After the build is successful go to the target directory and copy the jar named address-book-service.jar to one of the directory.
-- Now run "java -jar address-book-service.jar" in command prompt. After the service is up now you are ready to use the service.
+- Now run <b>"java -jar address-book-service.jar"</b> in command prompt. After the service is up, now you are ready to use the service.
 
 You can go through the list of available API's and API's documentation 
 using below Swagger UI link once your service is up in your local.
